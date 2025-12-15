@@ -25,16 +25,15 @@ Mes travaux de recherche, **menés en collaboration avec l'University of Arizona
 ### Conférences & Présentations
 
 * **2025 : IEEE VIS (Vienne, Autriche)**
-    * Présentation orale : *Topology Aware Neural Interpolation of Scalar Fields*.
+    * 🔴 Présentation orale : *Topology Aware Neural Interpolation of Scalar Fields*.
 * **2025 : Journée Visu (Reims) & Journée APR (Lille)**
     * Présentation des travaux de recherche en cours.
 * **2024 : IEEE VIS (Floride, USA)**
-    * Présentation orale : *A Practical Solver for Scalar Data Topological Simplification*.
+    * 🔴 Présentation orale : *A Practical Solver for Scalar Data Topological Simplification*.
 * **2023 : IEEE VIS (Melbourne, Australie)**
-    * Participation à la conférence.
+    * Veille scientifique et technologique (State-of-the-art monitoring).
 * **2022 : IEEE VIS (Oklahoma City, USA)**
-    * Participation à la conférence.
- 
+    * Veille scientifique et networking international.
   
 ### Formation Académique
 
