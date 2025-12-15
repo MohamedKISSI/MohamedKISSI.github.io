@@ -20,7 +20,7 @@ Je suis **Docteur en Intelligence Artificielle & TDA** (Sorbonne Université & C
 
 Cette triple compétence me permet d'allier une expertise technique pointue (**Deep Learning, TDA, HPC**) à une vision stratégique des enjeux de l'IA en entreprise .
 
-Mes travaux de recherche se concentrent sur l'application de l'analyse topologique des données pour améliorer la robustesse et l'explicabilité des modèles d'apprentissage . J'ai développé des solutions concrètes, notamment pour **Sopra Banking** (recommandation bancaire) et **Sodern** (base de données industrielle) .
+Mes travaux de recherche, **menés en collaboration avec l'University of Arizona**, se concentrent sur l'application de l'analyse topologique des données pour améliorer la robustesse et l'explicabilité des modèles d'apprentissage . J'ai développé des solutions concrètes, notamment pour **Sopra Banking** (recommandation bancaire) et **Sodern** (base de données industrielle) .
 
 ### Formation Académique
 
