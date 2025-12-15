@@ -440,15 +440,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-j-ai-soutenu-avec-succès-ma-thèse-de-doctorat-intitulée-topological-data-analysis-et-deep-learning-à-sorbonne-université",
+          section: "News",},{id: "news-enseignement-mada-39-s-spring-school-2025",
+          title: 'Enseignement : MADA&amp;#39;s Spring School 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/al-folio/news/announcement_teaching/";
+            },},{id: "news-j-ai-soutenu-avec-succès-ma-thèse-de-doctorat-intitulée-topological-data-analysis-et-deep-learning-à-sorbonne-université",
           title: '🎓 J’ai soutenu avec succès ma thèse de doctorat intitulée “Topological Data Analysis...',
           description: "",
           section: "News",},{id: "projects-project-1",
