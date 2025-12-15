@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Docteur en IA & TDA• Ingénieur Math-Info • Master IAE Paris
+subtitle: Docteur en IA & TDA • Ingénieur Math-Info • Master IAE Paris
 
 profile:
   align: right
