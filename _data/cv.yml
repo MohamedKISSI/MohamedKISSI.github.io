@@ -5,34 +5,34 @@
       institution: CNRS & Sorbonne Université, Paris
       year: 2022 - 2024
       description:
-        - Recherche en Topological Data Analysis et Deep Learning.
+        - "Recherche en Topological Data Analysis et Deep Learning."
         - "Collaboration internationale avec l'University of Arizona (Pr. Joshua A. Levine)."
-        - Publications IEEE TVCG 2024 et IEEE TopoIn Vis 2025.
-        - Code source validé par le Reproducibility Stamp.
+        - "Publications IEEE TVCG 2024 et IEEE TopoIn Vis 2025."
+        - "Code source validé par le Reproducibility Stamp."
     
     - title: Consultant Data (Mission Doctorale)
       institution: CAPSULE, Sorbonne Université
       year: 2022 - Présent
       description:
-        - Analyse de l'usage de la plateforme Moodle et clustering des parcours étudiants.
+        - "Analyse de l'usage de la plateforme Moodle et clustering des parcours étudiants."
 
     - title: Data Scientist (Stage)
       institution: Sopra Banking Software, Paris
       year: 2022
       description:
-        - Développement d'un moteur de recommandation bancaire (Python, Scikit-learn, Flask, MongoDB, Docker).
+        - "Développement d'un moteur de recommandation bancaire (Python, Scikit-learn, Flask, MongoDB, Docker)."
 
     - title: Stagiaire Recherche
       institution: LPSM - Sorbonne Université
       year: 2021
       description:
-        - Étude de graphes bruités et contribution au package R noisySBM.
+        - "Étude de graphes bruités et contribution au package R noisySBM."
 
     - title: Développeur Web & DB
       institution: Sodern (Ariane Group)
       year: 2020 - 2021
       description:
-        - Développement d'une base de données interne et application web Django.
+        - "Développement d'une base de données interne et application web Django."
 
 - title: Formation
   type: time_table
@@ -40,14 +40,47 @@
     - title: Doctorat en Intelligence Artificielle
       institution: Sorbonne Université & CNRS
       year: 2022 - 2025
-      description: Thèse soutenue le 28 Octobre 2024.
+      description: "Thèse soutenue le 28 Octobre 2024."
 
     - title: Master Management (MAE)
       institution: IAE Paris - Sorbonne Business School
       year: 2021 - 2023
-      description: Double compétence en administration des entreprises.
+      description: "Double compétence en administration des entreprises."
 
     - title: Diplôme d'ingénieur - Mathématiques Appliquées
       institution: Polytech Sorbonne
       year: 2019 - 2022
-      description: Spécialité Mathématiques Appliquées et Informatique.
+      description: "Spécialité Mathématiques Appliquées et Informatique."
+
+- title: Conférences & Talks
+  type: time_table
+  contents:
+    - title: IEEE VIS 2025
+      institution: Vienne, Autriche
+      year: 2025
+      description:
+        - "Présentation orale du papier : **Topology Aware Neural Interpolation of Scalar Fields**."
+        - "Conférence internationale majeure en visualisation (Classée A)."
+
+    - title: Journées Scientifiques Nationales
+      institution: France
+      year: 2025
+      description:
+        - "Présentation à la **Journée Visu 2025** (Reims)."
+        - "Présentation à la **Journée APR 2025** (Lille)."
+
+    - title: IEEE VIS 2024
+      institution: Floride, USA
+      year: 2024
+      description:
+        - "Présentation orale du papier : **A Practical Solver for Scalar Data Topological Simplification**."
+
+    - title: IEEE VIS 2023
+      institution: Melbourne, Australie
+      year: 2023
+      description: "Veille scientifique et technologique."
+
+    - title: IEEE VIS 2022
+      institution: Oklahoma City, USA
+      year: 2022
+      description: "Veille scientifique et networking international."
