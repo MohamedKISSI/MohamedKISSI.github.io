@@ -38,3 +38,7 @@ La conférence **IEEE VIS** est l'événement mondial de référence en visualis
 
 * **2025 — Journée APR (Lille)**
     * Présentation aux journées "Apprentissage Artificiel et Reconnaissance des Formes".
+      
+* **2023 - 2024 — Participation & Veille**
+    * Participation régulière aux éditions précédentes des **Journées Visu** et **APR**.
+    * Échanges avec la communauté et suivi des avancées nationales durant toute la thèse.
