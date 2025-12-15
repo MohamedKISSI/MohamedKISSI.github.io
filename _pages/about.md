@@ -22,6 +22,20 @@ Cette triple compétence me permet d'allier une expertise technique pointue (**D
 
 Mes travaux de recherche, **menés en collaboration avec l'University of Arizona**, se concentrent sur l'application de l'analyse topologique des données pour améliorer la robustesse et l'explicabilité des modèles d'apprentissage . J'ai développé des solutions concrètes, notamment pour **Sopra Banking** (recommandation bancaire) et **Sodern** (base de données industrielle) .
 
+### Conférences & Présentations
+
+* **2025 : IEEE VIS (Vienne, Autriche)**
+    * Présentation orale : *Topology Aware Neural Interpolation of Scalar Fields*.
+* **2025 : Journée Visu (Reims) & Journée APR (Lille)**
+    * Présentation des travaux de recherche en cours.
+* **2024 : IEEE VIS (Floride, USA)**
+    * Présentation orale : *A Practical Solver for Scalar Data Topological Simplification*.
+* **2023 : IEEE VIS (Melbourne, Australie)**
+    * Participation à la conférence.
+* **2022 : IEEE VIS (Oklahoma City, USA)**
+    * Participation à la conférence.
+ 
+  
 ### Formation Académique
 
 * **2022 - 2025** : Doctorat en Intelligence Artificielle, *Sorbonne Université & CNRS* .
