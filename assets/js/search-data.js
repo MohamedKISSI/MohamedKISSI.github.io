@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-conférences",
-          title: "conférences",
-          description: "Mes présentations orales et participations aux conférences internationales majeures.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/conferences/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -43,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-conférences",
+          title: "conférences",
+          description: "Mes présentations orales et participations aux conférences internationales majeures.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/conferences/";
           },
         },{id: "post-a-post-with-plotly-js",
         
