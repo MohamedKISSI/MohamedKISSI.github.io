@@ -1,12 +1,16 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /teaching/
+description: Activités d'enseignement et de formation.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### 2025
 
-Organize your courses by years, topics, or universities, however you like!
+* **MADA's Spring School on TDA and the TTK Toolkit**
+    * *University of Sciences of Rabat, Morocco*
+    * **Date :** Janvier 2025 (4 séances).
+    * **Rôle :** Organisateur et Intervenant.
+    * **Description :** Animation de sessions pratiques sur la librairie **TTK (Topology ToolKit)** pour compléter la formation théorique des étudiants en Analyse Topologique des Données (TDA).
