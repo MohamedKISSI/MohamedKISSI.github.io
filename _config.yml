@@ -17,8 +17,8 @@ keywords: ai, deep learning, tda, topology, data science, phd, sorbonne # add yo
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: "https://mohamedkissi.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://mohamedkissi.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -35,6 +35,14 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
+# -----------------------------------------------------------------------------
+# Theme Settings
+# -----------------------------------------------------------------------------
+# Active le changement de thème
+theme_toggle: true
+
+# Optionnel : Si vous voyez cette ligne, mettez "dark" pour forcer le noir au démarrage
+fixed_color_scheme: dark
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
