@@ -4,7 +4,7 @@ title: conférences
 permalink: /conferences/
 description: Mes présentations orales et participations aux conférences internationales majeures.
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 ### 🌍 Conférences Internationales (IEEE VIS)
